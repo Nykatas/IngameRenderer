@@ -16,4 +16,4 @@ Feel free to use this code but YOU'RE NOT ALLOWED TO EXPEND THIS CODE AS YOUR OW
 
 ----------------------------------------------
 
-IF YOU GOT ANY EDITIONS CONTACT ME ON DISCORD! => xShequ#6946
+IF YOU GOT ANY ADDITIONS CONTACT ME ON DISCORD! => xShequ#6946

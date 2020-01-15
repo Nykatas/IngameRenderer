@@ -13,3 +13,7 @@ Feel free to use this code but YOU'RE NOT ALLOWED TO EXPEND THIS CODE AS YOUR OW
 - => Credits: https://github.com/egold555/Minecraft-1.8.8-PVP-Client-Series/tree/master/Episode%20%235
 
 ---------------(!) Remember (!)---------------
+
+----------------------------------------------
+
+IF YOU GOT ANY EDITIONS CONTACT ME ON DISCORD! => xShequ#6946

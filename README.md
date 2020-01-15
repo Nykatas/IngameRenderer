@@ -9,7 +9,7 @@ Feel free to use this code but YOU'RE NOT ALLOWED TO EXPEND THIS CODE AS YOUR OW
 
 - use the code in your GuiIngame.java at net/minecraft/client/gui .
 - the UnicodeFontRenderer you see is NOT MY OWN WORK!
-  => Author: Eric Golde
-  => Credits: https://github.com/egold555/Minecraft-1.8.8-PVP-Client-Series/tree/master/Episode%20%235
+=> Author: Eric Golde
+=> Credits: https://github.com/egold555/Minecraft-1.8.8-PVP-Client-Series/tree/master/Episode%20%235
 
 ---------------(!) Remember (!)---------------

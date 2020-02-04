@@ -25,8 +25,8 @@ public class IngameRenderer {
         ScaledResolution sr = new ScaledResolution(this.mc);
         drawRect(0, sr.getScaledHeight() - 23, sr.getScaledWidth(), sr.getScaledHeight(), Integer.MIN_VALUE);
 
-        int l = Utils.l;
-        int d = Utils.d;
+        int l = 16;
+        int d = 4;
         int g = sr.getScaledWidth();
         int i = (int) ((g - 9 * l - 10 * d) / 2D);
         int id = mc.thePlayer.inventory.currentItem;

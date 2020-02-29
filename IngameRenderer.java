@@ -1,4 +1,4 @@
-package de.xShequ.utils;
+package your.package.here;
 
 import de.xShequ.gui.UnicodeFontRenderer;
 import net.minecraft.client.Minecraft;

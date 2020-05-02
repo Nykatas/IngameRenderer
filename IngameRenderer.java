@@ -14,7 +14,7 @@ public class IngameRenderer {
     private Minecraft mc = Minecraft.getMinecraft();
     private UnicodeFontRenderer ufr = UnicodeFontRenderer.getFontOnPC("Arial", 20);
 
-    private void renderHotbar() {
+    public void renderHotbar() {
 
         int ping;
 

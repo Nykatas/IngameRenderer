@@ -13,6 +13,8 @@ public class IngameRenderer {
 
     private Minecraft mc = Minecraft.getMinecraft();
     private UnicodeFontRenderer ufr = UnicodeFontRenderer.getFontOnPC("Arial", 20);
+    
+    public IngameRenderer() {}
 
     public void renderHotbar() {
 

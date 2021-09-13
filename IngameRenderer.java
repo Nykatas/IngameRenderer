@@ -47,7 +47,7 @@ public class IngameRenderer {
         }
         ufr.drawString("Ping:", 5, sr.getScaledHeight() - 12, 0xffffff);
         ufr.drawString("" + ping, 28, sr.getScaledHeight() - 12, 0xffffff);
-        ufr.drawString("Awesome Hotbar by xShequ!", sr.getScaledWidth() - 85, sr.getScaledHeight() - 12, 0xffffff);
+        ufr.drawString("Awesome Hotbar by Scott!", sr.getScaledWidth() - 85, sr.getScaledHeight() - 12, 0xffffff);
 
     }
 

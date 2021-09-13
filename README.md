@@ -1,7 +1,7 @@
 # IngameRenderer
 
 *Some stuff to make your Minecraft Client look pretty ingame!
-Feel free to use this code but YOU'RE NOT ALLOWED TO EXPEND THIS CODE AS YOUR OWN!*
+Feel free to use this code but you're **not** allowed to publish the code as your own work!*
 
 ## ⚠️ Attention!
 
